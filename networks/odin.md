@@ -6,6 +6,7 @@
 
 ## Our contribution with translations to ODIN protocol
 ### Ukrainian
+.- ggg
 - [Технічні оновлення ODIN за останні два тижні](https://ua.nq4.net/RcoVaQHqRPT)
 
 
